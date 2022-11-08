@@ -1,3 +1,5 @@
+
+
 //JAVASCRIPT ASSIGNMENT 1
 
 // decrease the rainfall by 10% to account for runoff
@@ -28,3 +30,6 @@ reservoir_volume = reservoir_volume - 2.5e5;
 
 // print the new value of the reservoir_volume variable
 console.log("Updated reservoir volume : ",reservoir_volume);
+
+
+
